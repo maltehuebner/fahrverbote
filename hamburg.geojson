@@ -1,11 +1,15 @@
 {
   "type": "FeatureCollection",
+   "properties": {
+     "name": "Hamburg",
+     "description": "Übersicht über mögliche Fahrverbote in Hamburg."
+  },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Max-Brauer-Allee, Hamburg",
-        "popupContent": "Eventuell werden in der Hamburger Max-Brauer-Allee Durchfahrtsverbote für bestimmte Dieselfahrzeuge erlassen."
+        "name": "Max-Brauer-Allee",
+        "description": "Eventuell werden in der Hamburger Max-Brauer-Allee Durchfahrtsverbote für bestimmte Dieselfahrzeuge erlassen."
       },
       "geometry": {
         "type": "Polygon",
@@ -82,7 +86,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stresemannstraße, Hamburg",
+        "name": "Stresemannstraße",
         "popupContent": "In der Hamburger Stresemann wird eventuell ein Durchfahrverbot für bestimmte Kraftfahrzeuge mit Dieselantrieb einerichtet."
       },
       "geometry": {
