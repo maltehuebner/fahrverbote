@@ -1,5 +1,7 @@
 {
   "type": "FeatureCollection",
+  "city": "Hamburg",
+  "description": "Übersicht über Fahrverbote in Hamburg",
   "features": [
     {
       "type": "Feature",
