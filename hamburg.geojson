@@ -87,7 +87,7 @@
       "type": "Feature",
       "properties": {
         "name": "Stresemannstraße",
-        "popupContent": "In der Hamburger Stresemann wird eventuell ein Durchfahrverbot für bestimmte Kraftfahrzeuge mit Dieselantrieb einerichtet."
+        "description": "In der Hamburger Stresemann wird eventuell ein Durchfahrverbot für bestimmte Kraftfahrzeuge mit Dieselantrieb einerichtet."
       },
       "geometry": {
         "type": "Polygon",
