@@ -9,7 +9,7 @@
       "type": "Feature",
       "properties": {
         "name": "Max-Brauer-Allee",
-        "description": "Eventuell werden in der Hamburger Max-Brauer-Allee Durchfahrtsverbote für bestimmte Dieselfahrzeuge erlassen."
+        "description": "In der Max-Brauer-Allee dürfen zwischen der Julius-Leber-Straße und der Holstenstraße keine Dieselfahrzeuge fahren, die nicht mindestens die Abgasnorm Euro 6 oder Euro VI erfüllen. Anlieger, Busse und viele andere Fahrzeuge sind vom Verkehrsverbot ausgenommen."
       },
       "geometry": {
         "type": "Polygon",
@@ -87,7 +87,7 @@
       "type": "Feature",
       "properties": {
         "name": "Stresemannstraße",
-        "description": "In der Hamburger Stresemann wird eventuell ein Durchfahrverbot für bestimmte Kraftfahrzeuge mit Dieselantrieb einerichtet."
+        "description": "In der Hamburger Stresemann dürfen keine Lastkraftwagen mit Dieselmotor verkehren, die nicht mindestens die Abgasnorm Euro VI erfüllen. Anlieger, Busse und viele andere Fahrzeuge sind vom Verkehrsverbot ausgenommen."
       },
       "geometry": {
         "type": "Polygon",
