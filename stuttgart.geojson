@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "name": "Stuttgart",
+    "description": "In Stuttgart könnte bereits Anfang 2019 ein großflächiges Fahrverbot für bestimmte Dieselfahrzeuge eingeführt werden, das einen Großteil des feinstaub- und stickoxidbelasteten Stadtgebietes betrifft."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadtgebiet",
+        "description": "Der Stuttgarter Fahrverbotsbereich für Dieselfahrzeuge unter Euro 5 wird sich voraussichtlich über das gesamte Stadtgebiet erstrecken."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.207916259765623,
+              48.803019407490346
+            ],
+            [
+              9.188690185546875,
+              48.8073156833131
+            ],
+            [
+              9.17409896850586,
+              48.81048112472012
+            ],
+            [
+              9.155044555664062,
+              48.80121033913669
+            ],
+            [
+              9.163455963134766,
+              48.7956696613839
+            ],
+            [
+              9.13684844970703,
+              48.77927019301256
+            ],
+            [
+              9.135475158691406,
+              48.76807023571851
+            ],
+            [
+              9.144744873046875,
+              48.76377059862982
+            ],
+            [
+              9.13564682006836,
+              48.75437800586312
+            ],
+            [
+              9.154014587402344,
+              48.757207284904105
+            ],
+            [
+              9.166545867919922,
+              48.75166174807409
+            ],
+            [
+              9.182682037353516,
+              48.75822578635217
+            ],
+            [
+              9.183368682861328,
+              48.76150748387781
+            ],
+            [
+              9.206199645996094,
+              48.76976735954908
+            ],
+            [
+              9.212894439697266,
+              48.778252118320935
+            ],
+            [
+              9.229545593261719,
+              48.78402093522326
+            ],
+            [
+              9.215984344482422,
+              48.79374724243088
+            ],
+            [
+              9.207916259765623,
+              48.803019407490346
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
