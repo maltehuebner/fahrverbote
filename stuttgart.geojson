@@ -1,9 +1,16 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "name": "Stuttgart",
+    "description": "In Stuttgart könnte bereits Anfang 2019 ein großflächiges Fahrverbot für bestimmte Dieselfahrzeuge eingeführt werden, das einen Großteil des feinstaub- und stickoxidbelasteten Stadtgebietes betrifft."
+  },
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Stadtgebiet",
+        "description": "Der Stuttgarter Fahrverbotsbereich für Dieselfahrzeuge unter Euro 5 wird sich voraussichtlich über das gesamte Stadtgebiet erstrecken."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
