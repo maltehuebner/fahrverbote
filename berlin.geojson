@@ -236,7 +236,8 @@
     {
       "type": "Feature",
       "properties": {
-
+        "name": "Dorotheenstraße",
+        "description": "Zwischen der Ebertstraße und der Wilhelmstraße ist keine Durchfahrt für Dieselfahrzeuge durch die Dorotheenstraße möglich."
       },
       "geometry": {
         "type": "Polygon",
@@ -276,7 +277,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Friedrichstraße",
+        "description": "Ein zweihundert Meter langer Bereich der Friedrichstraße wird nördlich von Unter den Linkden für Dieselmaschinen gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -307,7 +311,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Kapweg",
+        "description": "Der Kapweg wird zwischen der Afrikanischen Straße und dem Berliner Ring gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -346,7 +353,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Spandauer Damm",
+        "description": "Der Spandauer Damm wird zwischen der Bundesautobahn 100 und der Königin-Elisabeth-Straße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -385,7 +395,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Spandauer Damm",
+        "description": "Der Spandauer Damm wird zwischen Klausenerplatz und Sophie-Charlotten-Straße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -432,7 +445,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Kaiserdamm",
+        "description": "Etwa hundertfünzig Meter des Kaiserdamms werden zwischen der Bundesautobahn 100 und der Sophie-Charlotten-Straße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -471,7 +487,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Kaiser-Friedrich-Straße",
+        "description": "Ein hundert Meter langer Abschnitt der Kaiser-Friedrich-Straße wird zwischen Kantstraße und Pestalozzistraße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -502,7 +521,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Alt-Moabit",
+        "description": "Das Teilstück zwischen Gotzkowskystraße und Beusselstraße wird gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -549,7 +571,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Leonorenstraße",
+        "description": "Ein kleines Teilstück der Leonorenstraße wird zwsichen Corneliusstraße und der Kaulbachstraße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
