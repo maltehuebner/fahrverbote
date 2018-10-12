@@ -1,0 +1,899 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "name": "Berlin",
+    "description": "Das Berliner Verwaltungsgericht entschied im Oktober 2018, dass in besonders belasteten Straßen der Bundeshauptstadt Fahrverbote für Fahrzeuge mit Dieselantrieb unterhalb Euro 6 anzuordnen sind."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leipziger Straße",
+        "description": "Die Leipziger Straße wird zwischen dem Leipziger Platz und Jerusalemer Straße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.396754264831543,
+              52.51063177731809
+            ],
+            [
+              13.396668434143066,
+              52.51099744023003
+            ],
+            [
+              13.392634391784666,
+              52.51081460915434
+            ],
+            [
+              13.391947746276855,
+              52.51055342058397
+            ],
+            [
+              13.37958812713623,
+              52.50979596495161
+            ],
+            [
+              13.37958812713623,
+              52.50961312887756
+            ],
+            [
+              13.392162322998047,
+              52.51034446861
+            ],
+            [
+              13.392505645751953,
+              52.51047506371016
+            ],
+            [
+              13.396754264831543,
+              52.51063177731809
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Behrenstraße",
+        "description": "Ein etwa hundert Meter langes Teilstück der Behrenstraße wird westlich der Friedrichstraße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.388943672180176,
+              52.515567969923346
+            ],
+            [
+              13.388943672180176,
+              52.51575078122332
+            ],
+            [
+              13.387656211853027,
+              52.515646317716474
+            ],
+            [
+              13.387699127197264,
+              52.51548962199053
+            ],
+            [
+              13.388943672180176,
+              52.515567969923346
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potsdamer Straße",
+        "description": "Die Potsdamer Straße wird zwischen Bülowstraße und Alvenslebenstraße für zweihundert Meter gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.36186408996582,
+              52.4976487727133
+            ],
+            [
+              13.361177444458008,
+              52.49605502101946
+            ],
+            [
+              13.361434936523436,
+              52.495976638298224
+            ],
+            [
+              13.362164497375488,
+              52.49762264610208
+            ],
+            [
+              13.36186408996582,
+              52.4976487727133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joachimsthaler Straße",
+        "description": "Zwischen dem Kurfürstendamm und der Kantstraße wird ein hundertfünzig Meter langes Stück der Joachimsthaler Straße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.33139419555664,
+              52.50520524332799
+            ],
+            [
+              13.33114743232727,
+              52.5039056489926
+            ],
+            [
+              13.331512212753294,
+              52.503984017578816
+            ],
+            [
+              13.331694602966309,
+              52.50510728529492
+            ],
+            [
+              13.331780433654785,
+              52.50520524332799
+            ],
+            [
+              13.33139419555664,
+              52.50520524332799
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stromstraße",
+        "description": "Die Stromstraße wird zwischen Bugenhagenstraße und Turmstraße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.343088626861572,
+              52.52807573139973
+            ],
+            [
+              13.343088626861572,
+              52.52679639530564
+            ],
+            [
+              13.343024253845215,
+              52.52643086386279
+            ],
+            [
+              13.34341049194336,
+              52.52640475435762
+            ],
+            [
+              13.343474864959715,
+              52.52674417671436
+            ],
+            [
+              13.34341049194336,
+              52.5280887856576
+            ],
+            [
+              13.343088626861572,
+              52.52807573139973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reinhardtstraße",
+        "description": "Die Reinhardstraße wird für etwa zweihundert Meter zwsichen dem Schiffbauerdamm und der Luisenstraße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.376541137695312,
+              52.5221356415387
+            ],
+            [
+              13.376648426055908,
+              52.52203119321206
+            ],
+            [
+              13.379545211791992,
+              52.52254037645868
+            ],
+            [
+              13.379480838775633,
+              52.52265787944666
+            ],
+            [
+              13.376541137695312,
+              52.5221356415387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorotheenstraße",
+        "description": "Zwischen der Ebertstraße und der Wilhelmstraße ist keine Durchfahrt für Dieselfahrzeuge durch die Dorotheenstraße möglich."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.38036060333252,
+              52.51798362929277
+            ],
+            [
+              13.3803391456604,
+              52.51815337333538
+            ],
+            [
+              13.377463817596434,
+              52.51795751476649
+            ],
+            [
+              13.377034664154053,
+              52.51785305650609
+            ],
+            [
+              13.37712049484253,
+              52.517748597997326
+            ],
+            [
+              13.377485275268555,
+              52.51783999920608
+            ],
+            [
+              13.38036060333252,
+              52.51798362929277
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friedrichstraße",
+        "description": "Ein zweihundert Meter langer Bereich der Friedrichstraße wird nördlich von Unter den Linkden für Dieselmaschinen gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.3888578414917,
+              52.51722630172829
+            ],
+            [
+              13.388621807098389,
+              52.51867565858389
+            ],
+            [
+              13.388450145721436,
+              52.51867565858389
+            ],
+            [
+              13.388621807098389,
+              52.51723935921071
+            ],
+            [
+              13.3888578414917,
+              52.51722630172829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapweg",
+        "description": "Der Kapweg wird zwischen der Afrikanischen Straße und dem Berliner Ring gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.326823711395262,
+              52.56261676545361
+            ],
+            [
+              13.326716423034668,
+              52.56240806110308
+            ],
+            [
+              13.330235481262205,
+              52.56225153218856
+            ],
+            [
+              13.330578804016113,
+              52.56240806110308
+            ],
+            [
+              13.330256938934326,
+              52.56253850143854
+            ],
+            [
+              13.3298921585083,
+              52.562447193244466
+            ],
+            [
+              13.326823711395262,
+              52.56261676545361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spandauer Damm",
+        "description": "Der Spandauer Damm wird zwischen der Bundesautobahn 100 und der Königin-Elisabeth-Straße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.280367851257324,
+              52.51854508785383
+            ],
+            [
+              13.280432224273682,
+              52.51828394522958
+            ],
+            [
+              13.281676769256592,
+              52.518349231031145
+            ],
+            [
+              13.281848430633545,
+              52.51841451673572
+            ],
+            [
+              13.282835483551025,
+              52.518440630990376
+            ],
+            [
+              13.28272819519043,
+              52.518701772683336
+            ],
+            [
+              13.280367851257324,
+              52.51854508785383
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spandauer Damm",
+        "description": "Der Spandauer Damm wird zwischen Klausenerplatz und Sophie-Charlotten-Straße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.286654949188232,
+              52.51888457094486
+            ],
+            [
+              13.286676406860352,
+              52.51876705786403
+            ],
+            [
+              13.290560245513916,
+              52.51898902675283
+            ],
+            [
+              13.29096794128418,
+              52.51898902675283
+            ],
+            [
+              13.292427062988281,
+              52.51908042538106
+            ],
+            [
+              13.292298316955565,
+              52.519341563271205
+            ],
+            [
+              13.290903568267822,
+              52.51921099452016
+            ],
+            [
+              13.290517330169678,
+              52.519106539239935
+            ],
+            [
+              13.286654949188232,
+              52.51888457094486
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaiserdamm",
+        "description": "Etwa hundertfünzig Meter des Kaiserdamms werden zwischen der Bundesautobahn 100 und der Sophie-Charlotten-Straße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.28920841217041,
+              52.51031834954342
+            ],
+            [
+              13.289058208465576,
+              52.510605658422215
+            ],
+            [
+              13.285989761352539,
+              52.51042282571665
+            ],
+            [
+              13.285882472991942,
+              52.51027917091441
+            ],
+            [
+              13.286311626434326,
+              52.5103052900043
+            ],
+            [
+              13.286333084106444,
+              52.51017469439966
+            ],
+            [
+              13.28920841217041,
+              52.51031834954342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaiser-Friedrich-Straße",
+        "description": "Ein hundert Meter langer Abschnitt der Kaiser-Friedrich-Straße wird zwischen Kantstraße und Pestalozzistraße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.301868438720703,
+              52.5079153290087
+            ],
+            [
+              13.302061557769775,
+              52.50690967815818
+            ],
+            [
+              13.302512168884277,
+              52.50690967815818
+            ],
+            [
+              13.302297592163086,
+              52.5079153290087
+            ],
+            [
+              13.301868438720703,
+              52.5079153290087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alt-Moabit",
+        "description": "Das Teilstück zwischen Gotzkowskystraße und Beusselstraße wird gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.329548835754395,
+              52.52370886441662
+            ],
+            [
+              13.329602479934692,
+              52.52378719769318
+            ],
+            [
+              13.329634666442871,
+              52.52382636427906
+            ],
+            [
+              13.329634666442871,
+              52.52389816959584
+            ],
+            [
+              13.32939863204956,
+              52.52390469734608
+            ],
+            [
+              13.327542543411255,
+              52.52439427585008
+            ],
+            [
+              13.327478170394897,
+              52.52430941596699
+            ],
+            [
+              13.329312801361084,
+              52.52383289203997
+            ],
+            [
+              13.329548835754395,
+              52.52370886441662
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leonorenstraße",
+        "description": "Ein kleines Teilstück der Leonorenstraße wird zwsichen Corneliusstraße und der Kaulbachstraße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.343303203582764,
+              52.43976641615836
+            ],
+            [
+              13.342487812042235,
+              52.44090440429278
+            ],
+            [
+              13.342294692993164,
+              52.44083900347192
+            ],
+            [
+              13.343067169189453,
+              52.439727174663965
+            ],
+            [
+              13.343303203582764,
+              52.43976641615836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mariendorfer Damm",
+        "description": "Der Mariendorfer Damm wird zwischen Kurfürstenstraße und Kaiserstraße für etwa dreihundert Meter gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.385982513427734,
+              52.4456260870227
+            ],
+            [
+              13.385510444641113,
+              52.44800635569196
+            ],
+            [
+              13.385167121887207,
+              52.44805866784458
+            ],
+            [
+              13.385510444641113,
+              52.4456260870227
+            ],
+            [
+              13.385982513427734,
+              52.4456260870227
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tempelhofer Damm",
+        "description": "Rund um den Bereich des U-Bahnhofs Kaiserin-Augusta-Straße werden hundertfünfzig Meter des Tempelhofer Damms zwischen Albrechtstraße und Kaiserin-Augusta-Straße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.384673595428467,
+              52.460834050398674
+            ],
+            [
+              13.384330272674559,
+              52.45938278618036
+            ],
+            [
+              13.384652137756348,
+              52.45934356215919
+            ],
+            [
+              13.384995460510254,
+              52.46080790191704
+            ],
+            [
+              13.384673595428467,
+              52.460834050398674
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hermannstraße",
+        "description": "Zwischen der Warthestraße und der Emser Straße werden zweihundertfünfzig Meter der Hermannstraße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.429584503173826,
+              52.47025956610919
+            ],
+            [
+              13.430485725402832,
+              52.468560246396606
+            ],
+            [
+              13.430829048156738,
+              52.468560246396606
+            ],
+            [
+              13.429970741271973,
+              52.47033799466581
+            ],
+            [
+              13.429584503173826,
+              52.47025956610919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hermannstraße",
+        "description": "Ein zweihundert Meter langes Teilstück der Hermannstraße wird zwischen Silbersteinstraße und dem Mariendorfer Weg gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.432073593139648,
+              52.46636410527964
+            ],
+            [
+              13.431880474090576,
+              52.46633796008253
+            ],
+            [
+              13.432674407958984,
+              52.46467770826448
+            ],
+            [
+              13.432931900024414,
+              52.4647169275335
+            ],
+            [
+              13.432073593139648,
+              52.46636410527964
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonnenallee",
+        "description": "Zwischen der Fuldastraße und der Weichselstraße werden zweihundert Meter der Sonnenallee gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.435978889465332,
+              52.48390403154305
+            ],
+            [
+              13.433876037597656,
+              52.484923275765205
+            ],
+            [
+              13.433575630187987,
+              52.48474033623354
+            ],
+            [
+              13.435699939727783,
+              52.48370802033133
+            ],
+            [
+              13.435978889465332,
+              52.48390403154305
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonnenallee",
+        "description": "Ein etwa hundert Meter langes Stück der Sonnenallee wird zwischen Tellstraße und Jansastraße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.433039188385008,
+              52.485276085570625
+            ],
+            [
+              13.431580066680908,
+              52.4857856947383
+            ],
+            [
+              13.431408405303955,
+              52.48557662502475
+            ],
+            [
+              13.432824611663818,
+              52.48502781229885
+            ],
+            [
+              13.433039188385008,
+              52.48523688462089
+            ],
+            [
+              13.433039188385008,
+              52.485276085570625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oranienstraße",
+        "description": "Zwischen dem Oranienplatz und der Lückauer Straße werden etwa hundert Meter der Oranienstraße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.413405418395996,
+              52.502978276780325
+            ],
+            [
+              13.41331958770752,
+              52.50284765940397
+            ],
+            [
+              13.41482162475586,
+              52.50241661930843
+            ],
+            [
+              13.414971828460693,
+              52.502560299809886
+            ],
+            [
+              13.413405418395996,
+              52.502978276780325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brückenstraße",
+        "description": "Die Brückenstraße wird von der Köpenicker Straße über die Spree bis zum U-Bahnhof Jannowitzbrücke an der Stralauer Straße und der Holzmarktstraße gesperrt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.417868614196777,
+              52.51543738995772
+            ],
+            [
+              13.417546749114988,
+              52.51389651705713
+            ],
+            [
+              13.417611122131348,
+              52.51358311256651
+            ],
+            [
+              13.416388034820557,
+              52.51111497409128
+            ],
+            [
+              13.416602611541748,
+              52.511062736858406
+            ],
+            [
+              13.4177827835083,
+              52.51347864390625
+            ],
+            [
+              13.418190479278564,
+              52.51531986765687
+            ],
+            [
+              13.417868614196777,
+              52.51543738995772
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
