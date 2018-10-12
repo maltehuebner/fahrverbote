@@ -3,7 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Leipziger Straße",
+        "description": "Die Leipziger Straße wird zwischen dem Leipziger Platz und Jerusalemer Straße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -50,7 +53,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Behrenstraße",
+        "description": "Ein etwa hundert Meter langes Teilstück der Behrenstraße wird westlich der Friedrichstraße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -81,7 +87,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Potsdamer Straße",
+        "description": "Die Potsdamer Straße wird zwischen Bülowstraße und Alvenslebenstraße für zweihundert Meter gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -112,7 +121,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Joachimsthaler Straße",
+        "description": "Zwischen dem Kurfürstendamm und der Kantstraße wird ein hundertfünzig Meter langes Stück der Joachimsthaler Straße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -147,7 +159,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Stromstraße",
+        "description": "Die Stromstraße wird zwischen Bugenhagenstraße und Turmstraße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -186,7 +201,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Reinhardtstraße"
+        "description": "Die Reinhardstraße wird für etwa zweihundert Meter zwsichen dem Schiffbauerdamm und der Luisenstraße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -217,7 +235,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -560,7 +580,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Mariendorfer Damm",
+        "description": "Der Mariendorfer Damm wird zwischen Kurfürstenstraße und Kaiserstraße für etwa dreihundert Meter gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -591,7 +614,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Tempelhofer Damm",
+        "description": "Rund um den Bereich des U-Bahnhofs Kaiserin-Augusta-Straße werden hundertfünfzig Meter des Tempelhofer Damms zwischen Albrechtstraße und Kaiserin-Augusta-Straße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -622,7 +648,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Hermannstraße",
+        "description": "Zwischen der Warthestraße und der Emser Straße werden zweihundertfünfzig Meter der Hermannstraße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -653,7 +682,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Hermannstraße",
+        "description": "Ein zweihundert Meter langes Teilstück der Hermannstraße wird zwischen Silbersteinstraße und dem Mariendorfer Weg gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -684,7 +716,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Sonnenallee",
+        "description": "Zwischen der Fuldastraße und der Weichselstraße werden zweihundert Meter der Sonnenallee gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -715,7 +750,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Sonnenallee",
+        "description": "Ein etwa hundert Meter langes Stück der Sonnenallee wird zwischen Tellstraße und Jansastraße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -750,7 +788,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Oranienstraße",
+        "description": "Zwischen dem Oranienplatz und der Lückauer Straße werden etwa hundert Meter der Oranienstraße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -781,7 +822,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Brückenstraße",
+        "description": "Die Brückenstraße wird von der Köpenicker Straße über die Spree bis zum U-Bahnhof Jannowitzbrücke an der Stralauer Straße und der Holzmarktstraße gesperrt."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
