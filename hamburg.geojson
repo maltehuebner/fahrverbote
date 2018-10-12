@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
    "properties": {
      "name": "Hamburg",
-     "description": "Übersicht über mögliche Fahrverbote in Hamburg."
+     "description": "In Hamburg sind seit Ende Mai 2018 zwei kurze Straßenabschnitte für bestimmte Dieselabschnitte gesperrt."
   },
   "features": [
     {
