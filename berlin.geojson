@@ -1,5 +1,9 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "name": "Berlin",
+    "description": "Das Berliner Verwaltungsgericht entschied im Oktober 2018, dass in besonders belasteten Straßen der Bundeshauptstadt Fahrverbote für Fahrzeuge mit Dieselantrieb unterhalb Euro 6 anzuordnen sind."
+  },
   "features": [
     {
       "type": "Feature",
