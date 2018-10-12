@@ -202,7 +202,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Reinhardtstraße"
+        "name": "Reinhardtstraße",
         "description": "Die Reinhardstraße wird für etwa zweihundert Meter zwsichen dem Schiffbauerdamm und der Luisenstraße gesperrt."
       },
       "geometry": {
