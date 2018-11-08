@@ -1,10 +1,14 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "name": "Köln",
+    "description": "In Köln wird innerhalb der Umweltzone ab April 2019 ein Fahrverbot für Dieselmotoren mit Euro 4 eingeführt, ab September 2019 gilt das Verbot auch für Dieselfahrzeuge mit Euro 5."
+  },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Umweltzone Mühlheim",
+        "name": "Umweltzone",
         "description": ""
       },
       "geometry": {
@@ -1617,7 +1621,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Umweltzone",
+        "description": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4360,7 +4367,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Umweltzone",
+        "description": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9393,7 +9403,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Umweltzone",
+        "description": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9420,7 +9433,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Umweltzone",
+        "description": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10483,7 +10499,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Umweltzone",
+        "description": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11746,7 +11765,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Umweltzone",
+        "description": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12990,33 +13012,6 @@
             [
               7.020149043265299,
               50.92182508851466
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              7.031593322753906,
-              51.028224127981915
-            ],
-            [
-              7.007560729980469,
-              51.01634653617311
-            ],
-            [
-              7.01751708984375,
-              51.00921852037217
-            ],
-            [
-              7.031593322753906,
-              51.028224127981915
             ]
           ]
         ]
