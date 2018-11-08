@@ -1,5 +1,9 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "name": "Bonn",
+    "description": "Ab April 2019 werden in Bonn Fahrverbote für bestimmte Diesel- und Ottomotoren auf zwei vielbefahrenen Straßen eingerichtet."
+  },
   "features": [
     {
       "type": "Feature",
