@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "properties": {
     "name": "Köln",
-    "description": "In Köln wird innerhalb der Umweltzone ab April 2019 ein Fahrverbot für Dieselmotoren mit Euro 4 eingeführt, ab September 2019 gilt das Verbot auch für Dieselfahrzeuge mit Euro 5."
+    "description": "In Köln wird innerhalb der Umweltzone ab April 2019 ein Fahrverbot für Dieselmotoren mit Euro 4 und Ottomotoren mit Euro 1 und 2 eingeführt, ab September 2019 gilt das Verbot auch für Dieselfahrzeuge mit Euro 5."
   },
   "features": [
     {
