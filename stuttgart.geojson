@@ -1,22 +1,20 @@
 {
   "type": "FeatureCollection",
-  "properties": {		
-     "name": "Stuttgart",		
-     "description": "In Stuttgart könnte bereits Anfang 2019 ein großflächiges Fahrverbot für bestimmte Dieselfahrzeuge eingeführt werden, das einen Großteil des feinstaub- und stickoxidbelasteten Stadtgebietes betrifft."		
+  "properties": {
+     "name": "Stuttgart",
+     "description": "Seit dem 1. Januar 2019 gilt ein Fahrverbot für Dieselfahrzeuge mit Euro 4 oder schlechter in der Stuttgarter Umweltzone."
    },
   "features": [
     {
       "type": "Feature",
-      "properties": { 
-         "name": "Stadtgebiet",		
-         "description": "Der Stuttgarter Fahrverbotsbereich für Dieselfahrzeuge unter Euro 5 wird sich voraussichtlich über das gesamte Stadtgebiet erstrecken."		
-       },
+      "properties": {
+         "name": "Umweltzone",
+         "description": "Seit dem 1. Januar 2019 gilt ein Fahrverbot für Dieselfahrzeuge mit Euro 4 oder schlechter in der Stuttgarter Umweltzone."
+      },
       "geometry": {
-        "geometries": [
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
+        "type": "Polygon",
+        "coordinates": [
+           [
                 [
                   9.0765177,
                   48.7287799
@@ -2910,10 +2908,7 @@
                   48.7287799
                 ]
               ]
-            ]
-          }
-        ],
-        "type": "GeometryCollection"
+        ]
       }
     }
   ]
